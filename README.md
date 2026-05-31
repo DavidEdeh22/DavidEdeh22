@@ -10,5 +10,5 @@ I am a pharmacist and aspiring data analyst passionate about using data to solve
 - Data Visualization
 - Dashboard Design
 ## Connect With Me
-- LinkedIn: [www.linkedin.com/in/david-edeh-84aa65232]
+- LinkedIn: [David Edeh]
 - Email: edehdavid22@gmail.com
